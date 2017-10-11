@@ -1,0 +1,30 @@
+
+body {
+	background-image: url("../images/Malazan-Map.jpg");
+}
+
+h1 {
+	font-family: 'Metal Mania', cursive;
+	font-size: 48px;
+}
+
+h2 {
+	font-weight: bold;
+	color: white;
+	font-family: 'Volkhov', serif;
+}
+.hero {
+	clear; both;
+}
+
+.character-choice {
+	background-color: green;
+	width: 120px;
+	float: left;
+	margin: 10px;
+}
+
+.character-images {
+	height: 100px;
+	width: 100px;
+}
